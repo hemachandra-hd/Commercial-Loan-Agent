@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+faiss_index_policy/
+chroma_db/
+.DS_Store
+.env

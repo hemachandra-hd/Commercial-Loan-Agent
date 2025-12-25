@@ -1,0 +1,27 @@
+CONFIDENTIAL - INTERNAL USE ONLY
+ACME COMMERCIAL BANKING - CREDIT RISK POLICY 2025
+Version: 2.1 | Effective Date: Jan 1, 2025
+
+SECTION 1: INDUSTRY RESTRICTIONS
+The bank is strictly prohibited from lending to the following high-risk sectors:
+1. Adult Entertainment
+2. Cryptocurrency Exchanges or Mining Operations
+3. Commercial Gambling / Casinos
+4. Speculative Real Estate Development (without 50% pre-leasing)
+
+SECTION 2: FINANCIAL COVENANTS & THRESHOLDS
+To qualify for a standard commercial loan, the borrower must meet these minimums:
+- Minimum Debt-Service Coverage Ratio (DSCR): 1.25x
+- Minimum Credit Score (FICO SBSS): 680
+- Maximum Debt-to-Equity Ratio: 4:1
+- Minimum Time in Business: 2 Years
+
+SECTION 3: LOAN AUTHORITY LIMITS
+- Loan Officer Limit: Up to $1,000,000
+- Senior Credit Officer: Up to $5,000,000
+- Executive Risk Committee: Required for all loans exceeding $5,000,000
+
+SECTION 4: COLLATERAL REQUIREMENTS
+- Equipment Loans: LTV up to 80%
+- Commercial Real Estate: LTV up to 75%
+- Unsecured Loans: Capped at $100,000 per borrower.

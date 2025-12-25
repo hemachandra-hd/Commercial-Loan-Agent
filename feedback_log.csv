@@ -1,0 +1,25 @@
+Timestamp,Applicant,Loan_Amount,Credit_Score,Details,AI_Response,Rating,Human_Correction
+2025-12-25 13:34:59,Herald,1000000,820,Established drug company.  Don't want reveal the Industry type for private reason.,"Based on the information provided and the ACME Banking Credit Risk Policy:
+
+APPROVED with the following conditions:
+
+1. The industry ""Other"" is not explicitly prohibited under Section 1.
+
+2. There is no indication that the business is less than 2 years old, satisfying Section 2.
+
+3. The loan amount of $1,000,000 falls within the Senior Credit Officer's loan authority limit per Section 3.
+
+4. Since no collateral details are provided, the policy requirements around LTV ratios in Section 4 do not apply. However, the unsecured loan amount is permissible up to $100,000 per borrower. Any unsecured portion exceeding $100,000 would require acceptable collateral per Section 4 guidelines.
+
+The high credit score of 820 satisfies the minimum 680 requirement in Section 2. No other financial covenants are mentioned to evaluate debt service coverage or leverage ratios.",Negative,"Industry type mentioned is other, not sure whether it is legal or not. not mentioned though. It is still riskier."
+2025-12-25 13:55:30,Robin,1000000,833,Established drug company.  Don't want reveal the Industry type for private reason.,"Based on the ACME Commercial Banking Credit Risk Policy 2025:
+
+1. Industry Restrictions (Section 1): The industry type ""Other"" is not explicitly listed as prohibited. More details would be needed to determine if it falls under a restricted category.
+
+2. Financial Covenants (Section 2): The provided details do not indicate the business is less than 2 years old, which would disqualify it. With a credit score of 833, it exceeds the 680 minimum requirement.
+
+3. Loan Authority Limits (Section 3): As a Senior Credit Officer, you have the authority to approve loans up to $5,000,000. This $1,000,000 loan request falls within your limit.
+
+4. Collateral Requirements (Section 4): No collateral details are provided, so I cannot determine if collateral guidelines are met. For unsecured loans, the policy caps the amount at $100,000 per borrower.
+
+DECISION: Based on the information given, this $1,000,000 loan request could potentially be approved, provided acceptable collateral is pledged per the policy requirements in Section 4. Please obtain details on the collateral offered before making a final decision.",Negative,"Industry type mentioned is other, not sure whether it is legal or not. not mentioned though. It is still riskier"
