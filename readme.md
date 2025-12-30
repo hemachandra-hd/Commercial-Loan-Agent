@@ -28,7 +28,7 @@ This project is an **Agentic AI System** designed to automate the initial risk a
 
 ---
 
-## 🚀 Key Features (Interview Talking Points)
+## 🚀 Key Features 
 * **Sovereign AI:** Runs entirely on private AWS infrastructure (Bedrock).
 * **Explainability:** Every decision cites specific clauses from the Policy PDF.
 * **Hybrid Evaluation:** Uses "LLM-as-a-Judge" to grade risk memos against gold-standard examples.
